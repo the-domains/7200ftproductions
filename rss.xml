@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[7200ftproductions]]></title>
-        <description><![CDATA[7200ftproductions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[7200 Ft. Productions]]></title>
+        <description><![CDATA[7200 Ft. Productions]]></description>
+        <link>https://thegrid.ai/7200ftproductions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 17:52:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 16:08:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/7200ftproductions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Larkspur Wedding: Memorable Toasts and Alternate Bouquet Toss]]></title>
             <description><![CDATA[<article><h1>Larkspur Wedding: Memorable Toasts and Alternate Bouquet Toss</h1><p>Heather and Logan tied the knot on a sunny day in Larkspur, Colorado. An elegant outdoor ceremony exchanged vows, wove three strands into a cord to symbolize their union, and sealed their new marriage with a kiss!</p></article>]]></description>
-            <link>undefinedlarkspur-wedding-memorable-toasts-and-alternate-bouquet-tos/index.html</link>
+            <link>https://thegrid.ai/7200ftproductions/larkspur-wedding-memorable-toasts-and-alternate-bouquet-tos/index.html</link>
             <guid isPermaLink="false">29ec753c-aa04-49cd-aa32-a2ab81738a2f</guid>
-            <pubDate>Wed, 24 Feb 2016 17:52:26 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 16:07:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
