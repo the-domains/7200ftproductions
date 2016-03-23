@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-24T17:52:26.074Z'
-dateModified: '2016-02-24T17:52:25.289Z'
+description: 'Heather and Logan tied the knot on a sunny day in Larkspur, Colorado. An elegant outdoor ceremony exchanged vows, wove three strands into a cord to symbolize their union, and sealed their new marriage with a kiss!'
+datePublished: '2016-03-23T16:07:54.706Z'
+dateModified: '2016-03-23T16:07:11.498Z'
 title: 'Larkspur Wedding: Memorable Toasts and Alternate Bouquet Toss'
 author: []
+sourcePath: _posts/2016-02-24-larkspur-wedding-memorable-toasts-and-alternate-bouquet-tos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-24-larkspur-wedding-memorable-toasts-and-alternate-bouquet-tos.md
-published: true
 url: larkspur-wedding-memorable-toasts-and-alternate-bouquet-tos/index.html
 _type: Article
 
