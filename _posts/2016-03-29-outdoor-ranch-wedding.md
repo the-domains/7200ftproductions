@@ -17,8 +17,8 @@ keywords:
   - videography
   - '7200'
 description: "Erik & Colleen got hitched at the Ellis Ranch Carriage House on a beautiful June day in Colorado! Complete with grazing horses, a moonlit reception, and\_"
-datePublished: '2016-03-29T03:07:29.157Z'
-dateModified: '2016-03-29T03:02:53.253Z'
+datePublished: '2016-03-29T03:25:25.216Z'
+dateModified: '2016-03-29T03:25:23.095Z'
 author:
   - name: '7200 Ft. Productions, LLC'
     url: 'https://www.youtube.com/channel/UCoW7eS-mPcSNUPMgFU6BGEQ'
@@ -76,6 +76,6 @@ _context: 'http://schema.org'
 ---
 # Outdoor Ranch Wedding
 
-Erik & Colleen got hitched at the Ellis Ranch Carriage House on a beautiful June day in Colorado! Complete with grazing horses, a moonlit reception, and 
+Erik & Colleen got hitched at the Ellis Ranch Carriage House on a beautiful June day in Colorado. Complete with grazing horses, a moonlit reception, and cupcakes!
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjwamIH5n3kA%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjwamIH5n3kA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjwamIH5n3kA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
