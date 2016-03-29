@@ -16,9 +16,9 @@ keywords:
   - videos
   - videography
   - '7200'
-description: "The Lodermeier's tied the knot on a beautiful June day in Loveland, Colorado. At the Ellis Ranch, they held their outdoor ceremony at the gazebo, followed by an indoor/outdoor reception at the Carriage House. 7200 Ft. Productions provides wedding videography to couples throughout Colorado. Visit www.7200ftproductions.com for more information."
-datePublished: '2016-03-29T03:02:46.733Z'
-dateModified: '2016-03-29T03:02:14.207Z'
+description: "Erik & Colleen got hitched at the Ellis Ranch Carriage House on a beautiful June day in Colorado! Complete with grazing horses, a moonlit reception, and\_"
+datePublished: '2016-03-29T03:07:29.157Z'
+dateModified: '2016-03-29T03:02:53.253Z'
 author:
   - name: '7200 Ft. Productions, LLC'
     url: 'https://www.youtube.com/channel/UCoW7eS-mPcSNUPMgFU6BGEQ'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: Outdoor Ranch Wedding
+sourcePath: _posts/2016-03-29-outdoor-ranch-wedding.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-29-outdoor-ranch-wedding.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
