@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Heather and Logan tied the knot on a sunny day in Larkspur, Colorado. An elegant outdoor ceremony exchanged vows, wove three strands into a cord to symbolize their union, and sealed their new marriage with a kiss!'
-datePublished: '2016-03-23T16:07:54.706Z'
-dateModified: '2016-03-23T16:07:11.498Z'
+datePublished: '2016-03-29T02:50:34.064Z'
+dateModified: '2016-03-23T16:08:03.490Z'
 title: 'Larkspur Wedding: Memorable Toasts and Alternate Bouquet Toss'
 author: []
 sourcePath: _posts/2016-02-24-larkspur-wedding-memorable-toasts-and-alternate-bouquet-tos.md
