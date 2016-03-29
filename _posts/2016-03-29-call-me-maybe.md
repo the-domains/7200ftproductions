@@ -16,9 +16,9 @@ keywords:
   - gigi
   - wedding
   - '805'
-description: 'Uploaded by 7200 Ft. Productions, LLC on 2015-05-05.'
-datePublished: '2016-03-29T02:52:42.475Z'
-dateModified: '2016-03-29T02:52:29.984Z'
+description: 'Every couple has a story as unique as the bride and groom. This couple found each other during the summer that the Carley Rae Jepsen song was all the rage -- and what a key role it played in their relationship! Hear their story here:'
+datePublished: '2016-03-29T02:58:05.294Z'
+dateModified: '2016-03-29T02:52:47.407Z'
 author:
   - name: '7200 Ft. Productions, LLC'
     url: 'https://www.youtube.com/channel/UCoW7eS-mPcSNUPMgFU6BGEQ'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: 'Call me, Maybe?'
+sourcePath: _posts/2016-03-29-call-me-maybe.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-29-call-me-maybe.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
